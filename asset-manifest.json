@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/jonatportifolio/static/css/main.5c3c3cce.css",
-    "main.js": "/jonatportifolio/static/js/main.c69cd9e2.js",
-    "static/media/CentraNo2-Bold.ttf": "/jonatportifolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
-    "static/media/CentraNo2-Medium.ttf": "/jonatportifolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
-    "static/media/CentraNo2-Book.ttf": "/jonatportifolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/revicons.eot": "/jonatportifolio/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/jonatportifolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/jonatportifolio/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/nav-icon3.svg": "/jonatportifolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
-    "static/media/nav-icon1.svg": "/jonatportifolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "index.html": "/jonatportifolio/index.html",
-    "main.5c3c3cce.css.map": "/jonatportifolio/static/css/main.5c3c3cce.css.map",
-    "main.c69cd9e2.js.map": "/jonatportifolio/static/js/main.c69cd9e2.js.map"
+    "main.css": "/portifolio/static/css/main.fa834d66.css",
+    "main.js": "/portifolio/static/js/main.ed6f026d.js",
+    "static/media/CentraNo2-Bold.ttf": "/portifolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/portifolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/portifolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/revicons.eot": "/portifolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portifolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portifolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/portifolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon1.svg": "/portifolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/portifolio/index.html",
+    "main.fa834d66.css.map": "/portifolio/static/css/main.fa834d66.css.map",
+    "main.ed6f026d.js.map": "/portifolio/static/js/main.ed6f026d.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c3c3cce.css",
-    "static/js/main.c69cd9e2.js"
+    "static/css/main.fa834d66.css",
+    "static/js/main.ed6f026d.js"
   ]
 }
